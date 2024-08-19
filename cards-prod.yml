@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related prod APIs "
+  message: "Welcome to EazyBank cards related production APIs "
   contactDetails:
     name: "Reine Bella - Product Owner"
     email: "{cipher}3a1c17e47ebaa259d474f31c5b4257fef7908cb34642f2dfd6dff900f9d1832d5c4f882f3e7ccc088c85ee6ac6c453c4"
